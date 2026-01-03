@@ -209,7 +209,7 @@ This runs a demo with all CRUD operations and error handling examples.
 - Add, edit, delete books
 - Filter and search functionality
 - Copy management with intuitive controls
-- <img width="1920" height="973" alt="Screenshot_20260103_161707" src="https://github.com/user-attachments/assets/42bfe3cf-0e76-4e1a-8948-c9aac62d9f9f" />
+- <img width="1920" height="974" alt="Screenshot_20260103_163630" src="https://github.com/user-attachments/assets/d457bab5-0a71-4d27-9e66-b4039aa5d01c" />
 - <img width="1920" height="972" alt="Screenshot_20260103_161646" src="https://github.com/user-attachments/assets/821e3fb9-03c8-4662-b7e9-9eb714918977" />
 - <img width="1920" height="972" alt="Screenshot_20260103_161606" src="https://github.com/user-attachments/assets/6163dea6-281e-4518-be52-a1ff11d05b4d" />
 
